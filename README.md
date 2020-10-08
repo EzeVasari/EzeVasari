@@ -2,7 +2,7 @@
 
 <img align='right' src='https://raw.githubusercontent.com/EzeVasari/EzeVasari/fa1eb47390d0ad376a6645b10d0929018a919d21/img/img.svg' width='300"'>
 
-Hola, soy **Ezequiel Vasari**. Soy un desarrollador web de Buenos Aires, Argentina. Actualmente estoy terminando la carrera Tecnicatura en Desarrollo Web, en donde he aprendido tecnologías como HTML, CSS, Bootstrap, Javascript, Java, Spring, PHP, MySql y SQL Server.   
+Hola, soy **Ezequiel Vasari**. Desarrollador web de Buenos Aires, Argentina. Actualmente estoy terminando la carrera Tecnicatura en Desarrollo Web, en donde he aprendido tecnologías como HTML, CSS, Bootstrap, Javascript, Java, Spring, PHP, MySql y SQL Server.   
 
 🌱 Actualmente estoy aprendiendo Javascript, diseño UI con Figma y backend con .Net
 
