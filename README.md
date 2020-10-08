@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align='right' src='>https://raw.githubusercontent.com/EzeVasari/EzeVasari/fa1eb47390d0ad376a6645b10d0929018a919d21/img/img.svg' width='200"'>
+<img align='right' src='https://raw.githubusercontent.com/EzeVasari/EzeVasari/fa1eb47390d0ad376a6645b10d0929018a919d21/img/img.svg' width='200"'>
 
 <!--
 **EzeVasari/EzeVasari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
