@@ -6,7 +6,7 @@ Hola, soy **Ezequiel Vasari**. Soy un desarrollador web de Buenos Aires, Argenti
 
 🌱 Actualmente estoy aprendiendo Javascript, diseño UI con Figma y backend con .Net
 
-## 📫 Contact Me on Social Media
+**Puedes contactarme por mis redes sociales o por email**
 
 <a href="https://www.linkedin.com/in/ernesto-vasari-13b366185/">
 	<img width="32" align="left"
