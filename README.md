@@ -6,17 +6,12 @@ Hola, soy **Ezequiel Vasari**. Desarrollador web de Buenos Aires, Argentina. Act
 
 🌱 Actualmente estoy aprendiendo Javascript, diseño UI con Figma y backend con .Net
 
-**Puedes contactarme por mis redes sociales o por email:**
+**Puedes contactarme por Linkedin o email:**
 
 <a href="https://www.linkedin.com/in/ernesto-vasari-13b366185/">
 	<img width="32" align="left"
 		 alt="Linkedin"
 		 src="https://www.flaticon.es/svg/static/icons/svg/1384/1384088.svg">
-</a>
-<a href="https://twitter.com/EzeVasari">
-	<img width="32" align="left"
-		 alt="Twitter"
-		 src="https://www.flaticon.es/svg/static/icons/svg/747/747453.svg">
 </a>
 <a href="mailto:ezequielvasari@gmail.com">
 	<img width="32" align="left"
