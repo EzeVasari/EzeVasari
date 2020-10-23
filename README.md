@@ -4,7 +4,7 @@
 
 Hola, soy **Ezequiel Vasari**. Desarrollador web de Buenos Aires, Argentina. Actualmente estoy terminando la carrera Tecnicatura en Desarrollo Web, en donde he aprendido tecnologías como HTML, CSS, Bootstrap, Javascript, Java, Spring, PHP, MySql y SQL Server.   
 
-🌱 Actualmente estoy aprendiendo Javascript, diseño UI con Figma y backend con .Net
+🌱 Actualmente estoy profundizando conocimientos en Javascript, explorando diseño UI con Figma y aprendiendo backend con .Net
 
 **Puedes contactarme por Linkedin o email:**
 
