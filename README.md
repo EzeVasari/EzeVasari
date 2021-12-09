@@ -11,12 +11,12 @@ Hola, soy **Ezequiel Vasari**. Desarrollador web de Buenos Aires, Argentina. Act
 <a href="https://www.linkedin.com/in/ernesto-vasari-13b366185/">
 	<img width="32" align="left"
 		 alt="Linkedin"
-		 src="https://www.flaticon.es/svg/static/icons/svg/1384/1384088.svg">
+		 src="https://iconape.com/wp-content/files/en/340044/svg/340044.svg">
 </a>
 <a href="mailto:ezequielvasari@gmail.com">
 	<img width="32" align="left"
 		 alt="Email"
-		 src="https://www.flaticon.es/svg/static/icons/svg/58/58683.svg">
+		 src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg">
 </a>
 
 
