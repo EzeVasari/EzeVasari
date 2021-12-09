@@ -16,7 +16,7 @@ Hola, soy **Ezequiel Vasari**. Desarrollador web de Buenos Aires, Argentina. Act
 <a href="mailto:ezequielvasari@gmail.com">
 	<img width="32" align="left"
 		 alt="Email"
-		 src="https://cdn.worldvectorlogo.com/logos/mail-ios.svg">
+		 src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg">
 </a>
 
 
